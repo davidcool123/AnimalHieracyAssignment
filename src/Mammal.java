@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Mammal {
+public class Mammal {
+    public void makeSound() {
+    }
 }
